@@ -1,7 +1,7 @@
 [
-    { "value": "500k", "percentage": 70, "color": "#a9d6e5" },
-    { "value": "1m", "percentage": 60, "color": "#89c2d9" },
-    { "value": "2m", "percentage": 50, "color": "#61a5c2" },
-    { "value": "3m", "percentage": 40, "color": "#468faf" },
-    { "value": "5m", "percentage": 30, "color": "#2c7da0" }
+    { "value": "100 الف", "percentage": 60, "color": "#a9d6e5" },
+    { "value": "30 روب", "percentage": 5, "color": "#89c2d9" },
+    { "value": "100 روب", "percentage": 3, "color": "#61a5c2" },
+    { "value": "500 الف", "percentage": 45, "color": "#468faf" },
+    { "value": "500 روب", "percentage": 1, "color": "#2c7da0" }
 ]
